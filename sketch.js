@@ -6,7 +6,7 @@ var zoff = 0;
 
 function setup() {
   // put setup code here
-  createCanvas(800,800);
+  createCanvas(1600,1600);
   cols = floor (width / scl);
   rows = floor (height / scl);
 }
